@@ -15,4 +15,5 @@ func main(){
 
 	fmt.Printf("type = %T value = %v",u8,u8)
 	fmt.Println("hello world!")
+	fmt.Println("hello world!")
 }
